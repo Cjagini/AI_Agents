@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons",
+  "description": "An interactive, formal application demonstrating falling snowflakes and floating balloons with Web Audio API sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
